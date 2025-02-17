@@ -4,7 +4,7 @@ from streamlit_folium import st_folium
 from datetime import datetime
 import pytz
 
-API_KEY = "AIzaSyDuKztcapAx7pIfxL-c2QCCs1HvDwdB8p8"  # YOUR_GOOGLE_MAPS_API_KEY
+# API_KEY = "******************************"  # YOUR_GOOGLE_MAPS_API_KEY
 
 # City options with coordinates and timezones
 cities = {
