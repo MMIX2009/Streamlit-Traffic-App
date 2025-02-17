@@ -5,10 +5,10 @@ from datetime import datetime
 import pytz
 
 API_KEY = "******************************"  # YOUR_GOOGLE_MAPS_API_KEY
-headers = {
-    "authorization": st.secrets["API_KEY"],
-    "content-type": "application/json"
-}
+# headers = {
+#     "authorization": st.secrets["API_KEY"],
+#     "content-type": "application/json"
+# }
 
 
 # City options with coordinates and timezones
